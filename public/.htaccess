@@ -1,0 +1,21 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# If the requested file or directory exists, serve it
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# For HTML files, serve them directly
+RewriteCond %{REQUEST_URI} \.html$ [NC]
+RewriteRule ^(.*)$ $1 [L]
+
+# For directories, try to serve index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /$1.html [L,R=301]
+
+# Fallback to index.html for SPA routing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.html [L]
+
