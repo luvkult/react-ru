@@ -10,9 +10,10 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 
 export const IconCanary = memo<
-  JSX.IntrinsicElements['svg'] & {title?: string; size?: 's' | 'md'}
+  SVGProps<SVGSVGElement> & {title?: string; size?: 's' | 'md'}
 >(function IconCanary(
   {className, title, size} = {
     className: undefined,

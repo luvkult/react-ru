@@ -10,8 +10,9 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 
-export const IconTerminal = memo<JSX.IntrinsicElements['svg']>(
+export const IconTerminal = memo<SVGProps<SVGSVGElement>>(
   function IconTerminal({className}) {
     return (
       <svg

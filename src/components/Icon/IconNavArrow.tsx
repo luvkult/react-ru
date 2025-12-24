@@ -10,10 +10,11 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 import cn from 'classnames';
 
 export const IconNavArrow = memo<
-  JSX.IntrinsicElements['svg'] & {
+  SVGProps<SVGSVGElement> & {
     /**
      * The direction the arrow should point.
      * `start` and `end` are relative to the current locale.

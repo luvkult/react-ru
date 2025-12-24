@@ -10,8 +10,9 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 
-export const IconDownload = memo<JSX.IntrinsicElements['svg']>(
+export const IconDownload = memo<SVGProps<SVGSVGElement>>(
   function IconDownload({className}) {
     return (
       <svg

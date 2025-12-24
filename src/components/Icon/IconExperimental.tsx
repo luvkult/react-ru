@@ -10,9 +10,10 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 
 export const IconExperimental = memo<
-  JSX.IntrinsicElements['svg'] & {title?: string; size?: 's' | 'md'}
+  SVGProps<SVGSVGElement> & {title?: string; size?: 's' | 'md'}
 >(function IconExperimental(
   {className, title, size} = {
     className: undefined,

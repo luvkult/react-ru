@@ -10,8 +10,9 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 
-export const IconDeepDive = memo<JSX.IntrinsicElements['svg']>(
+export const IconDeepDive = memo<SVGProps<SVGSVGElement>>(
   function IconDeepDive({className}) {
     return (
       <svg

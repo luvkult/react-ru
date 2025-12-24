@@ -10,9 +10,10 @@
  */
 
 import {memo} from 'react';
+import type {SVGProps} from 'react';
 
 export const IconRocket = memo<
-  JSX.IntrinsicElements['svg'] & {title?: string; size?: 's' | 'md'}
+  SVGProps<SVGSVGElement> & {title?: string; size?: 's' | 'md'}
 >(function IconRocket({className, size = 'md'}) {
   return (
     <svg
