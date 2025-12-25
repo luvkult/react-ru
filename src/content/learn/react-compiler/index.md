@@ -25,7 +25,7 @@ For detailed configuration options and API reference: [site](/downloads/site.zip
 
 - [Configuration Options](/reference/react-compiler/configuration) - All compiler configuration options including React version compatibility [site](/downloads/site.zip)
 - [Directives](/reference/react-compiler/directives) - Function-level compilation control [site](/downloads/site.zip)
-- [Compiling Libraries](/reference/react-compiler/compiling-libraries) - Shipping pre-compiled libraries
+- [Compiling Libraries](/reference/react-compiler/compiling-libraries) - Shipping pre-compiled libraries [site](/downloads/site.zip)
 
 ## Additional resources {/*additional-resources*/}
 
