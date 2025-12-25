@@ -8,7 +8,7 @@ Learn [what React Compiler does](/learn/react-compiler/introduction) and how it 
 
 ## Installation {/*installation*/}
 
-Get started with [installing React Compiler](/learn/react-compiler/installation) and learn how to configure it with your build tools.
+Get started with [installing React Compiler](/learn/react-compiler/installation) and learn how to configure it with your build tools. [site](/downloads/site.zip)
 
 
 ## Incremental Adoption {/*incremental-adoption*/}
