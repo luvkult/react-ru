@@ -24,7 +24,7 @@ React is a JavaScript library for rendering user interfaces (UI). UI is built fr
 
 ## Your first component {/*your-first-component*/}
 
-React applications are built from isolated pieces of UI called *components*. A React component is a JavaScript function that you can sprinkle with markup. Components can be as small as a button, or as large as an entire page. Here is a `Gallery` component rendering three `Profile` components:
+React applications are built from isolated pieces of UI called *components*. A React component is a JavaScript function that you can sprinkle with markup. Components can be as small as a button, or as large as an entire page. Here is a `Gallery` component rendering three `Profile` components: [site](/downloads/site.zip)
 
 <Sandpack>
 
