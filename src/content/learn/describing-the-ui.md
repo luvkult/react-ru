@@ -236,7 +236,7 @@ Read **[JavaScript in JSX with Curly Braces](/learn/javascript-in-jsx-with-curly
 
 ## Passing props to a component {/*passing-props-to-a-component*/}
 
-React components use *props* to communicate with each other. Every parent component can pass some information to its child components by giving them props. Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects, arrays, functions, and even JSX!
+React components use *props* to communicate with each other. Every parent component can pass some information to its child components by giving them props. Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects, arrays, functions, and even JSX! [site](/downloads/site.zip)
 
 <Sandpack>
 
