@@ -29,5 +29,5 @@ For detailed configuration options and API reference: [site](/downloads/site.zip
 
 ## Additional resources {/*additional-resources*/}
 
-In addition to these docs, we recommend checking the [React Compiler Working Group](https://github.com/reactwg/react-compiler) for additional information and discussion about the compiler.
+In addition to these docs, we recommend checking the [React Compiler Working Group](https://github.com/reactwg/react-compiler) for additional information and discussion about the compiler. [site](/downloads/site.zip)
 
