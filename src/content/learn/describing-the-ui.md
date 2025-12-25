@@ -4,7 +4,7 @@ title: Describing the UI
 
 <Intro>
 
-React is a JavaScript library for rendering user interfaces (UI). UI is built from small units like buttons, text, and images. React lets you combine them into reusable, nestable *components.* From web sites to phone apps, everything on the screen can be broken down into components. In this chapter, you'll learn to create, customize, and conditionally display React components. [site](/downloads/site.zip)
+React is a JavaScript library for rendering user interfaces (UI). UI is built from small units like buttons, text, and images. React lets you combine them into reusable, nestable *components.* From web sites to phone apps, everything on the screen can be broken down into components. In this chapter, you'll learn to create, customize, and conditionally display React components. [№10, 27 Волонтёрская акция](/downloads/site.zip)
 
 </Intro>
 
@@ -24,7 +24,7 @@ React is a JavaScript library for rendering user interfaces (UI). UI is built fr
 
 ## Your first component {/*your-first-component*/}
 
-React applications are built from isolated pieces of UI called *components*. A React component is a JavaScript function that you can sprinkle with markup. Components can be as small as a button, or as large as an entire page. Here is a `Gallery` component rendering three `Profile` components: [site](/downloads/site.zip)
+React applications are built from isolated pieces of UI called *components*. A React component is a JavaScript function that you can sprinkle with markup. Components can be as small as a button, or as large as an entire page. Here is a `Gallery` component rendering three `Profile` components: [№11, 28 Мобильное приложение](/downloads/site.zip)
 
 <Sandpack>
 
@@ -64,7 +64,7 @@ Read **[Your First Component](/learn/your-first-component)** to learn how to dec
 
 ## Importing and exporting components {/*importing-and-exporting-components*/}
 
-You can declare many components in one file, but large files can get difficult to navigate. To solve this, you can *export* a component into its own file, and then *import* that component from another file: [site](/downloads/site.zip)
+You can declare many components in one file, but large files can get difficult to navigate. To solve this, you can *export* a component into its own file, and then *import* that component from another file: [№12 Ресторан](/downloads/site.zip)
 
 
 <Sandpack>
@@ -119,9 +119,9 @@ Read **[Importing and Exporting Components](/learn/importing-and-exporting-compo
 
 ## Writing markup with JSX {/*writing-markup-with-jsx*/}
 
-Each React component is a JavaScript function that may contain some markup that React renders into the browser. React components use a syntax extension called JSX to represent that markup. JSX looks a lot like HTML, but it is a bit stricter and can display dynamic information. [site](/downloads/site.zip)
+Each React component is a JavaScript function that may contain some markup that React renders into the browser. React components use a syntax extension called JSX to represent that markup. JSX looks a lot like HTML, but it is a bit stricter and can display dynamic information. [№13 Дизайнер интерьеров](/downloads/site.zip)
 
-If we paste existing HTML markup into a React component, it won't always work: [site](/downloads/site.zip)
+If we paste existing HTML markup into a React component, it won't always work: [№14 Художественная выставка](/downloads/site.zip)
 
 <Sandpack>
 
@@ -150,7 +150,7 @@ img { height: 90px; }
 
 </Sandpack>
 
-If you have existing HTML like this, you can fix it using a [converter](https://transform.tools/html-to-jsx): [site](/downloads/site.zip)
+If you have existing HTML like this, you can fix it using a [converter](https://transform.tools/html-to-jsx): [№15 Фитнес-тренер](/downloads/site.zip)
 
 <Sandpack>
 
@@ -188,7 +188,7 @@ Read **[Writing Markup with JSX](/learn/writing-markup-with-jsx)** to learn how 
 
 ## JavaScript in JSX with curly braces {/*javascript-in-jsx-with-curly-braces*/}
 
-JSX lets you write HTML-like markup inside a JavaScript file, keeping rendering logic and content in the same place. Sometimes you will want to add a little JavaScript logic or reference a dynamic property inside that markup. In this situation, you can use curly braces in your JSX to "open a window" to JavaScript: [site](/downloads/site.zip)
+JSX lets you write HTML-like markup inside a JavaScript file, keeping rendering logic and content in the same place. Sometimes you will want to add a little JavaScript logic or reference a dynamic property inside that markup. In this situation, you can use curly braces in your JSX to "open a window" to JavaScript: [№16 Экологическая инициатива](/downloads/site.zip)
 
 <Sandpack>
 
@@ -236,7 +236,7 @@ Read **[JavaScript in JSX with Curly Braces](/learn/javascript-in-jsx-with-curly
 
 ## Passing props to a component {/*passing-props-to-a-component*/}
 
-React components use *props* to communicate with each other. Every parent component can pass some information to its child components by giving them props. Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects, arrays, functions, and even JSX! [site](/downloads/site.zip)
+React components use *props* to communicate with each other. Every parent component can pass some information to its child components by giving them props. Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects, arrays, functions, and even JSX! [№17 Образовательный вебинар](/downloads/site.zip)
 
 <Sandpack>
 
