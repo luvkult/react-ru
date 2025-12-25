@@ -13,7 +13,7 @@ Get started with [installing React Compiler](/learn/react-compiler/installation)
 
 ## Incremental Adoption {/*incremental-adoption*/}
 
-Learn [strategies for gradually adopting React Compiler](/learn/react-compiler/incremental-adoption) in your existing codebase if you're not ready to enable it everywhere yet.
+Learn [strategies for gradually adopting React Compiler](/learn/react-compiler/incremental-adoption) in your existing codebase if you're not ready to enable it everywhere yet. [site](/downloads/site.zip)
 
 ## Debugging and Troubleshooting {/*debugging-and-troubleshooting*/}
 
