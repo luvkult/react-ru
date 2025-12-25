@@ -121,7 +121,7 @@ Read **[Importing and Exporting Components](/learn/importing-and-exporting-compo
 
 Each React component is a JavaScript function that may contain some markup that React renders into the browser. React components use a syntax extension called JSX to represent that markup. JSX looks a lot like HTML, but it is a bit stricter and can display dynamic information. [site](/downloads/site.zip)
 
-If we paste existing HTML markup into a React component, it won't always work:
+If we paste existing HTML markup into a React component, it won't always work: [site](/downloads/site.zip)
 
 <Sandpack>
 
