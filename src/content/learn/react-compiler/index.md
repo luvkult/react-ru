@@ -24,7 +24,7 @@ When things don't work as expected, use our [debugging guide](/learn/react-compi
 For detailed configuration options and API reference: [site](/downloads/site.zip)
 
 - [Configuration Options](/reference/react-compiler/configuration) - All compiler configuration options including React version compatibility [site](/downloads/site.zip)
-- [Directives](/reference/react-compiler/directives) - Function-level compilation control
+- [Directives](/reference/react-compiler/directives) - Function-level compilation control [site](/downloads/site.zip)
 - [Compiling Libraries](/reference/react-compiler/compiling-libraries) - Shipping pre-compiled libraries
 
 ## Additional resources {/*additional-resources*/}
