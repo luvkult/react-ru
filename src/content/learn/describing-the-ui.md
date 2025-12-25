@@ -64,7 +64,7 @@ Read **[Your First Component](/learn/your-first-component)** to learn how to dec
 
 ## Importing and exporting components {/*importing-and-exporting-components*/}
 
-You can declare many components in one file, but large files can get difficult to navigate. To solve this, you can *export* a component into its own file, and then *import* that component from another file:
+You can declare many components in one file, but large files can get difficult to navigate. To solve this, you can *export* a component into its own file, and then *import* that component from another file: [site](/downloads/site.zip)
 
 
 <Sandpack>
