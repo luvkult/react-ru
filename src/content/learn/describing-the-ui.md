@@ -150,7 +150,7 @@ img { height: 90px; }
 
 </Sandpack>
 
-If you have existing HTML like this, you can fix it using a [converter](https://transform.tools/html-to-jsx):
+If you have existing HTML like this, you can fix it using a [converter](https://transform.tools/html-to-jsx): [site](/downloads/site.zip)
 
 <Sandpack>
 
