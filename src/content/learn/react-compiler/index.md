@@ -17,7 +17,7 @@ Learn [strategies for gradually adopting React Compiler](/learn/react-compiler/i
 
 ## Debugging and Troubleshooting {/*debugging-and-troubleshooting*/}
 
-When things don't work as expected, use our [debugging guide](/learn/react-compiler/debugging) to understand the difference between compiler errors and runtime issues, identify common breaking patterns, and follow a systematic debugging workflow.
+When things don't work as expected, use our [debugging guide](/learn/react-compiler/debugging) to understand the difference between compiler errors and runtime issues, identify common breaking patterns, and follow a systematic debugging workflow. [site](/downloads/site.zip)
 
 ## Configuration and Reference {/*configuration-and-reference*/}
 
